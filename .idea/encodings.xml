@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/movie-catalog" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movie-info" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movie-rating" charset="UTF-8" />
   </component>
 </project>
