@@ -1,4 +1,4 @@
-package com.xyxmovies.movierating.model;
+package com.xyzmovies.moviecatalog.model;
 
 public class Rating {
 
@@ -24,5 +24,7 @@ public class Rating {
     public Rating(String movieId, int rating) {
         this.movieId = movieId;
         this.rating = rating;
+
+
     }
 }
